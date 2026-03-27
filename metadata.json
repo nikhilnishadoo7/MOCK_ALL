@@ -1,0 +1,5 @@
+{
+  "name": "KYC Mock Microservices",
+  "description": "A production-grade mock server system simulating real-world KYC providers (PAN, GST, Passport) with microservice architecture.",
+  "requestFramePermissions": []
+}
