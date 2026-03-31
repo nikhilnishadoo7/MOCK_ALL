@@ -119,7 +119,7 @@ curl --location 'http://localhost:3004/passport-api/fetch' \
 --header 'Authorization: Bearer MOCK_TOKEN' \
 --header 'Content-Type: application/json' \
 --header 'X-Request-Id: test-passport-001' \
---data '{"file_number": "MH9876543210", "date_of_birth": "2000-12-29", "consent": "Y"}'
+--data '{"file_number": "MH9876543210", "date_of_birth": "1998-03-11", "consent": "Y"}'
 ```
 
 ---
