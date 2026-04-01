@@ -315,3 +315,72 @@ export const mockPassportData = [
     application_received_date: "2019-09-09"
   }
 ];
+
+export const mockBankData = [
+  {
+    accountNumber: "123456789012",
+    ifsc: "HDFC0001234",
+    name: "Yogesh Chauhan",
+    verifiedName: "YOGESH CHAUHAN"
+  },
+  {
+    accountNumber: "987654321098",
+    ifsc: "SBIN0000456",
+    name: "Rahul Sharma",
+    verifiedName: "RAHUL SHARMA"
+  },
+  {
+    accountNumber: "456789123456",
+    ifsc: "ICIC0005678",
+    name: "Priya Verma",
+    verifiedName: "PRIYA VERMA"
+  },
+  {
+    accountNumber: "321654987012",
+    ifsc: "AXIS0001122",
+    name: "Amit Singh",
+    verifiedName: "AMIT SINGH"
+  },
+  {
+    accountNumber: "741852963258",
+    ifsc: "KKBK0003344",
+    name: "Neha Gupta",
+    verifiedName: "NEHA GUPTA"
+  },
+  {
+    accountNumber: "159357486213",
+    ifsc: "YESB0007788",
+    name: "Vikas Yadav",
+    verifiedName: "VIKAS YADAV"
+  },
+  {
+    accountNumber: "852456963741",
+    ifsc: "PNB0009988",
+    name: "Pooja Mehta",
+    verifiedName: "POOJA MEHTA"
+  },
+  {
+    accountNumber: "369258147852",
+    ifsc: "BARB0MUMBAI",
+    name: "Sandeep Patil",
+    verifiedName: "SANDEEP PATIL"
+  },
+  {
+    accountNumber: "951753852456",
+    ifsc: "UBIN0534567",
+    name: "Kavita Reddy",
+    verifiedName: "KAVITA REDDY"
+  },
+  {
+    accountNumber: "753159456852",
+    ifsc: "IDIB000T001",
+    name: "Arjun Nair",
+    verifiedName: "ARJUN NAIR"
+  },
+  {
+    accountNumber: "258369147258",
+    ifsc: "CNRB0004455",
+    name: "Rohit Joshi",
+    verifiedName: "ROHIT JOSHI"
+  }
+];
